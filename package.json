@@ -2,10 +2,11 @@
   "name": "company-startup-collaboration",
   "version": "0.1.0",
   "private": true,
+  "license": "Sunip",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start --port=3001",
     "lint": "next lint"
   },
   "dependencies": {
